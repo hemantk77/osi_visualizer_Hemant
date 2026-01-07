@@ -8,8 +8,7 @@ This project is built for educational purposes to help understand networking con
 
 ## 🧑‍🎓 Student Information
 
-- **Name:** Hemant Kumar  
-- **Matriculation Number:** 56010482  
+- **Name:** Hemant Kumar 
 - **Subject:** IT Platform  
 - **Project Type:** Mini Project  
 
